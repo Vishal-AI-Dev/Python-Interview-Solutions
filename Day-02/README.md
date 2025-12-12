@@ -1,0 +1,1 @@
+A Python program that checks if a given string or number is a palindrome. This solution implements **string cleaning** (normalization) to handle real-world inputs, ensuring that punctuation and capitalization do not affect the logic.
