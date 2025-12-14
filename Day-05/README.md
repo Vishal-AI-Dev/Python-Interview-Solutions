@@ -1,0 +1,1 @@
+A Python script that analyzes a string and counts the frequency of each alphanumeric character.This solution demonstrates the power of **Hash Maps (Dictionaries)** to solve counting problems efficiently, avoiding slow nested loops.
