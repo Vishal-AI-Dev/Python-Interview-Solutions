@@ -1,0 +1,1 @@
+An efficient Python implementation that merges two pre-sorted lists into a single sorted list. Instead of concatenating and re-sorting (which is computationally expensive), this solution utilizes the **Two Pointers Technique** to achieve linear time complexity. This logic is the core component of the **Merge Sort** algorithm.
