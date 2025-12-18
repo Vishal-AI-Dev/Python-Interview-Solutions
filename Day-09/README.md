@@ -1,0 +1,1 @@
+A CLI (Command Line Interface) tool that simulates a "Blind Auction." Users can input their bids sequentially without seeing previous bids. The program utilizes Python Dictionaries to store data and logic to determine the highest value.This project simulates real-world data handling similar to processing JSON objects in API backends.
