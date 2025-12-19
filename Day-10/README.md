@@ -1,0 +1,1 @@
+A high-efficiency Python utility that analyzes a string of text and calculates the frequency of occurrence for every character. This algorithmic pattern (Frequency Map) is commonly used in **Data Compression**, **Cryptography**, and **Natural Language Processing (NLP)** tasks.
