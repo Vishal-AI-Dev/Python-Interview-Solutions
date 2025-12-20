@@ -17,3 +17,5 @@ Day 05 - Character Frequency Counter
 Day 06 - Find Second Largest Number
 
 Day 07: The Balanced Parentheses Checker
+
+Day 08: Merge Sorted List 
